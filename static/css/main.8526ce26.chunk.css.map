@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/MyEditor.css"],"names":[],"mappings":"AAIA,gCACE,sBACF","file":"main.8526ce26.chunk.css","sourcesContent":[".tox-statusbar{\n  display: none !important;\n}\n\n.tox-tinymce-aux{\n  display: none !important;\n}"]}
